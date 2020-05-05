@@ -1,2 +1,3 @@
-# redux_demo
-Flutter Redux demo app
+# Redux Demo
+
+Flutter Redux demo app, for learning purposes.
