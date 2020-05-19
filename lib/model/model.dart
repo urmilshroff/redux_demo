@@ -6,7 +6,7 @@ class Item {
 
   Item({@required this.id, @required this.body});
 
-  Item copyWith(int Id, String body) {
+  Item copyWith(int id, String body) {
     return Item(
       id: id ?? this.id,
       body: body ?? this.body,
